@@ -19,7 +19,7 @@ Cryptography algorithms
 ### 68^71, 6F^72, 6C^73, 61^71
 ### 19 1d 1f 10
 
-## Decrypy 
+## Decrypt 
 ### message:19 1d 1f 10
 ### key:qrs
 ### 19^71, 1d^72, 1f^73, 10^71
